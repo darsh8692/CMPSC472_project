@@ -1,10 +1,10 @@
 ﻿# CMPSC472_project
 
 ## Table of Contents
-- [Install](#installing)
+- [Install](#install)
 - [Introduction](#introduction)
 - [Functions](#functions)
-- [Results](#test-results)
+- [Results](#results)
 - [Conclusion](#Conclusion)
 
 ## Install
